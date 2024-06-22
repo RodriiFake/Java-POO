@@ -1,3 +1,5 @@
+package Relaciones;
+
 public class Dog {
     private String name;
 

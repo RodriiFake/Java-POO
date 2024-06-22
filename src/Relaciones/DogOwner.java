@@ -1,3 +1,5 @@
+package Relaciones;
+
 public class DogOwner {
     private String name;
     private Dog dog;

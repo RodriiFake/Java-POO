@@ -1,3 +1,5 @@
+package Relaciones;
+
 public class DogWalker {
     private String name;
 
